@@ -1,2 +1,2 @@
-# taco-cloud
-Taco Cloud application.
+# Taco Cloud application
+
